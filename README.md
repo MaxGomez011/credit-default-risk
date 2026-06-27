@@ -4,9 +4,9 @@ Este proyecto construye y compara modelos de aprendizaje supervisado para predec
 
 Integrantes:
 
-César Emiliano Garduño Gutiérrez
-Daniel Arturo Castillo Rodríguez
-Eduardo Martinez Vega
-Erika Isabel Castillo Santiago
-Maria Fernanda Zacateco Tello
-Maximiliano Gómez Mendoza
+-César Emiliano Garduño Gutiérrez
+-Daniel Arturo Castillo Rodríguez
+-Eduardo Martinez Vega
+-Erika Isabel Castillo Santiago
+-Maria Fernanda Zacateco Tello
+-Maximiliano Gómez Mendoza
